@@ -1,4 +1,4 @@
-# Projeto de Visualização de Dados
+# Projeto - Análise Exploratória e Estatística do MovieLens
 
 Este projeto tem como objetivo realizar a Análise Exploratória e Estatística em um dataset do MovieLens utilizando linguagem Python (Jupyter Notebook).
 
