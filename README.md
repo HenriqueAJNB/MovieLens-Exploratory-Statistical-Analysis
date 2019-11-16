@@ -1,4 +1,4 @@
-# Project - Exploratory Analysis and Statistics from MovieLens
+# Project - Exploratory and Statistical Analysis from MovieLens
 
 This project aims to perform Exploratory and Statistical Analysis in a MovieLens dataset using Python language (Jupyter Notebook).
 
